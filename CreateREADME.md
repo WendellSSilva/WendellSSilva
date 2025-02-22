@@ -14,5 +14,5 @@ Meu nome é Wendell, sou um programador Full Stack, atualmente estou estudando e
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WendellSSilva)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=WendellSSilva&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=WendellSSilva&layout=compact&langs_count=8&card_width=80" />
 </a>
