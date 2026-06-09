@@ -87,10 +87,3 @@ Conquistar minha primeira oportunidade como Desenvolvedor Front-end Júnior, con
 ## 👀 Contador de Visitas
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=WendellSSilva&color=blue&style=for-the-badge)
-
----
-
-## 🐍 Snake Animation
-
-![Snake animation](https://github.com/WendellSSilva/WendellSSilva/blob/output/dist/snake.svg)
-
