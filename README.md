@@ -63,6 +63,20 @@ Conversor de moedas com dados financeiros atualizados via API.
 
 ---
 
+## 📜 Certificados e Aprendizados
+
+![Alura](https://img.shields.io/badge/Alura-0175C2?style=for-the-badge&logo=alura&logoColor=white)
+![DIO](https://img.shields.io/badge/Digital%20Innovation%20One-000000?style=for-the-badge&logo=dio&logoColor=white)
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
+
+- ✅ **HTML e CSS Avançado** – Alura  
+- ✅ **JavaScript Moderno (ES6+)** – DIO  
+- ✅ **React Básico** – Udemy  
+- 📚 **Em andamento:** TypeScript para React  
+- 📚 **Em andamento:** Consumo de APIs REST com Node.js
+
+---
+
 ## 🎯 Objetivo
 
 Conquistar minha primeira oportunidade como Desenvolvedor Front-end Júnior, contribuindo para projetos reais, evoluindo tecnicamente e gerando valor através de soluções modernas e eficientes.
