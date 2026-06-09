@@ -65,15 +65,23 @@ Conversor de moedas com dados financeiros atualizados via API.
 
 ## 📜 Certificados e Aprendizados
 
-![Alura](https://img.shields.io/badge/Alura-0175C2?style=for-the-badge&logo=alura&logoColor=white)
-![DIO](https://img.shields.io/badge/Digital%20Innovation%20One-000000?style=for-the-badge&logo=dio&logoColor=white)
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
+![DevClub](https://img.shields.io/badge/DevClub-000000?style=for-the-badge&logo=github&logoColor=white)
 
-- ✅ **HTML e CSS Avançado** – Alura  
-- ✅ **JavaScript Moderno (ES6+)** – DIO  
-- ✅ **React Básico** – Udemy  
-- 📚 **Em andamento:** TypeScript para React  
-- 📚 **Em andamento:** Consumo de APIs REST com Node.js
+- ✅ [HTML e CSS Avançado – DevClub](https://www.devclub.com.br)  
+- ✅ [JavaScript Moderno (ES6+) – DevClub](https://www.devclub.com.br)  
+- ✅ [React Básico – DevClub](https://www.devclub.com.br)  
+- 📚 [Em andamento: TypeScript para React – DevClub](https://www.devclub.com.br)  
+- 📚 [Em andamento: Consumo de APIs REST com Node.js – DevClub](https://www.devclub.com.br)
+
+---
+
+## 🤝 Soft Skills
+
+- 💬 **Comunicação clara e objetiva** – facilidade em transmitir ideias e colaborar com equipes multidisciplinares  
+- 👥 **Trabalho em equipe** – experiência em projetos colaborativos e disposição para aprender com colegas  
+- 🧩 **Resolução de problemas** – foco em encontrar soluções práticas e eficientes para desafios técnicos  
+- ⏱️ **Organização e gestão de tempo** – disciplina para cumprir prazos e manter produtividade  
+- 🌱 **Aprendizado contínuo** – curiosidade e dedicação em evoluir constantemente como desenvolvedor
 
 ---
 
