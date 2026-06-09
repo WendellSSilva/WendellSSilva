@@ -33,29 +33,15 @@ Landing page responsiva com HTML e CSS.
 - [Repositório](https://github.com/WendellSSilva/Wide-Coverage-location)  
 - [Projeto Online](https://wendellssilva.github.io/Wide-Coverage-location)
 
+**Preview:**  
+![Wide Coverage Desktop](https://github.com/WendellSSilva/Wide-Coverage-location/blob/main/Wide%20Coverage%20Location.png?raw=true)
+
+---
+
 ### 🛒 Easy Shopping
 Landing page responsiva com HTML e CSS.  
 - [Repositório](https://github.com/WendellSSilva/Easy-shopping)  
 - [Projeto Online](https://wendellssilva.github.io/Easy-shopping)
 
-### 🌦️ Weather App
-Aplicação web de previsão do tempo com consumo de API em tempo real.  
-**Tecnologias:** HTML5, CSS3, JavaScript e API REST.
-
-### 💱 Currency Converter
-Conversor de moedas com dados financeiros atualizados via API.  
-**Tecnologias:** HTML5, CSS3, JavaScript e API REST.
-
----
-
-## 🎯 Objetivo
-
-Conquistar minha primeira oportunidade como Desenvolvedor Front-end Júnior, contribuindo para projetos reais, evoluindo tecnicamente e gerando valor através de soluções modernas e eficientes.
-
----
-
-## 📫 Contato
-
-📧 **E-mail:** [wendellssilva@gmail.com](mailto:wendellssilva@gmail.com)  
-💼 **LinkedIn:** [Wendell Saturnino Silva](https://www.linkedin.com/in/wendell-saturnino-silva)  
-🐙 **GitHub:** [WendellSSilva](https://github.com/WendellSSilva)
+**Preview Desktop:**  
+![Easy Shopping Desktop](https://github.com/WendellSSilva/Easy-shopping/blob/main/easy%
