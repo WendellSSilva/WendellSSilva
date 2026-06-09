@@ -77,6 +77,8 @@ Conquistar minha primeira oportunidade como Desenvolvedor Front-end Júnior, con
 
 ---
 
+---
+
 ## 📊 Estatísticas do GitHub
 
 ![Wendell GitHub Stats](https://github-readme-stats.vercel.app/api?username=WendellSSilva&show_icons=true&theme=radical)  
