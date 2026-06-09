@@ -1,8 +1,11 @@
 # Olá, eu sou Wendell Silva 👋
 
-## Desenvolvedor Full Stack
+## 💻 Desenvolvedor Front-end
 
-Desenvolvedor Full Stack em transição de carreira, com foco em React, JavaScript, TypeScript e Node.js.
+Desenvolvedor Front-end em transição de carreira, focado em criar aplicações web modernas utilizando HTML, CSS, JavaScript, TypeScript e React.
+
+Atualmente estou construindo projetos práticos para fortalecer minhas habilidades em desenvolvimento Front-end, consumo de APIs e criação de interfaces responsivas, sempre buscando escrever código limpo e proporcionar uma excelente experiência ao usuário.
+
 
 ### 🚀 Tecnologias
 
@@ -19,9 +22,10 @@ Aplicação web que consome API meteorológica para exibir informações climát
 
 Aplicação para conversão de moedas utilizando dados financeiros atualizados.
 
-### 🎯 Objetivo
+## 🎯 Objetivo
 
-Busco uma oportunidade como Desenvolvedor Front-end ou Full Stack Júnior para contribuir com projetos reais, evoluir tecnicamente e gerar valor através de soluções web modernas.
+Busco minha primeira oportunidade como Desenvolvedor Front-end Júnior para contribuir com projetos reais, evoluir tecnicamente e gerar valor através de interfaces modernas, acessíveis e centradas no usuário.
+
 
 ### 📫 Contato
 
