@@ -41,7 +41,4 @@ Landing page responsiva com HTML e CSS.
 ### 🛒 Easy Shopping
 Landing page responsiva com HTML e CSS.  
 - [Repositório](https://github.com/WendellSSilva/Easy-shopping)  
-- [Projeto Online](https://wendellssilva.github.io/Easy-shopping)
-
-**Preview Desktop:**  
-![Easy Shopping Desktop](https://github.com/WendellSSilva/Easy-shopping/blob/main/easy%
+- [Projeto Online](https://wendell
