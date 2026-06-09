@@ -92,4 +92,5 @@ Conquistar minha primeira oportunidade como Desenvolvedor Front-end Júnior, con
 
 ## 🐍 Snake Animation
 
-![Snake animation](https://github.com/WendellSSilva/WendellSSilva/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/WendellSSilva/WendellSSilva/blob/output/dist/snake.svg)
+
