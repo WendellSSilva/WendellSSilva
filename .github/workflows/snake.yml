@@ -12,14 +12,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Create dist directory
-        run: mkdir -p dist
-
       - name: Generate Snake
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: WendellSSilva
-          svg_out_path: dist/snake.svg
+          outputs: dist/snake.svg
 
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v3
