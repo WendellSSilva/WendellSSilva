@@ -28,7 +28,7 @@ Atualmente desenvolvo projetos práticos para aprimorar minhas habilidades em in
 
 ## 📂 Projetos em Destaque
 
-### 🌍 Wide Coverage Location
+### 🌍 Wide Coverage Location ![Status](https://img.shields.io/badge/Deploy-Online-brightgreen) ![Responsivo](https://img.shields.io/badge/Responsivo-📱💻-blue)
 Landing page responsiva com HTML e CSS.  
 - [Repositório](https://github.com/WendellSSilva/Wide-Coverage-location)  
 - [Projeto Online](https://wendellssilva.github.io/Wide-Coverage-location)
@@ -38,7 +38,7 @@ Landing page responsiva com HTML e CSS.
 
 ---
 
-### 🛒 Easy Shopping
+### 🛒 Easy Shopping ![Status](https://img.shields.io/badge/Deploy-Online-brightgreen) ![Responsivo](https://img.shields.io/badge/Responsivo-📱💻-blue)
 Landing page responsiva com HTML e CSS.  
 - [Repositório](https://github.com/WendellSSilva/Easy-shopping)  
 - [Projeto Online](https://wendellssilva.github.io/Easy-shopping)
@@ -51,13 +51,13 @@ Landing page responsiva com HTML e CSS.
 
 ---
 
-### 🌦️ Weather App
+### 🌦️ Weather App ![Status](https://img.shields.io/badge/Em%20Desenvolvimento-yellow)
 Aplicação web de previsão do tempo com consumo de API em tempo real.  
 **Tecnologias:** HTML5, CSS3, JavaScript e API REST.
 
 ---
 
-### 💱 Currency Converter
+### 💱 Currency Converter ![Status](https://img.shields.io/badge/Em%20Desenvolvimento-yellow)
 Conversor de moedas com dados financeiros atualizados via API.  
 **Tecnologias:** HTML5, CSS3, JavaScript e API REST.
 
