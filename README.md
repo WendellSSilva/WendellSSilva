@@ -28,7 +28,7 @@ Aplicação para conversão de moedas utilizando dados financeiros atualizados.
 
 ### 🎯 Objetivo
 
-Busco minha primeira oportunidade como Desenvolvedor Front-end ou Full Stack Júnior.
+Busco uma oportunidade como Desenvolvedor Front-end ou Full Stack Júnior para contribuir com projetos reais, evoluir tecnicamente e gerar valor através de soluções web modernas.
 
 ### 📫 Contato
 
