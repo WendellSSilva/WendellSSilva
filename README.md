@@ -28,6 +28,13 @@ Atualmente desenvolvo projetos práticos para aprimorar minhas habilidades em in
 
 ## 📂 Projetos em Destaque
 
+### 💇‍♀️ Clínica de Estética ![Status](https://img.shields.io/badge/Deploy-Online-brightgreen) ![Responsivo](https://img.shields.io/badge/Responsivo-📱💻-blue)
+Landing page premium responsiva desenvolvida para o segmento de estética e beleza de alto padrão.
+- [Repositório](https://github.com/WendellSSilva/clinica-estetica)  
+- [Projeto Online](https://clinica-estetica.vercel.app)
+
+**Preview:** ![Clínica Estética Preview](https://github.com/WendellSSilva/clinica-estetica/blob/main/clinica.png?raw=true)
+
 ### 🌍 Wide Coverage Location ![Status](https://img.shields.io/badge/Deploy-Online-brightgreen) ![Responsivo](https://img.shields.io/badge/Responsivo-📱💻-blue)
 Landing page responsiva com HTML e CSS.  
 - [Repositório](https://github.com/WendellSSilva/Wide-Coverage-location)  
