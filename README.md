@@ -39,7 +39,7 @@ Recriação da homepage da DevClub desenvolvida como desafio front-end.
 O projeto foi construído buscando reproduzir a experiência visual da página original, utilizando Next.js, React, TypeScript e Tailwind CSS, com foco em responsividade, organização de componentes e qualidade de código.
 
 - 🔗 [Repositório](https://github.com/WendellSSilva/devclub-homepage)
-- 🌐 [Projeto Online](https://devclub-awards.vercel.app/)
+- 🌐 [Projeto Online](https://devclub-awards.vercel.app/) 
 
 **Tecnologias:**
 
