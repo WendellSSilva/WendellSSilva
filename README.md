@@ -11,7 +11,7 @@ Desenvolvo projetos práticos com foco em interfaces responsivas, experiência d
 
 ---
 
-## 🚀 Tecnologias
+# 🚀 Tecnologias
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -36,10 +36,10 @@ Desenvolvo projetos práticos com foco em interfaces responsivas, experiência d
 
 Recriação da homepage da DevClub desenvolvida como desafio front-end.
 
-O projeto foi construído buscando reproduzir a experiência visual da página original, utilizando Next.js, React, TypeScript e Tailwind CSS, com foco em responsividade, organização de componentes e qualidade de código.
+O projeto foi construído buscando reproduzir a experiência visual da página original da DevClub, utilizando Next.js, React, TypeScript e Tailwind CSS, com foco em responsividade, organização de componentes e qualidade de código.
 
 - 🔗 [Repositório](https://github.com/WendellSSilva/devclub-homepage)
-- 🌐 [Projeto Online](https://devclub-awards.vercel.app/) 
+- 🌐 [Projeto Online](https://devclub-awards.vercel.app/)
 
 **Tecnologias:**
 
@@ -47,7 +47,7 @@ Next.js • React • TypeScript • Tailwind CSS
 
 **Preview:**
 
-![DevClub Homepage Preview](LINK_DA_IMAGEM)
+![DevClub Homepage Preview](https://github.com/WendellSSilva/devclub-homepage/blob/main/public/devclub-homepage.png?raw=true)
 
 ---
 
@@ -58,8 +58,8 @@ Next.js • React • TypeScript • Tailwind CSS
 
 Landing page premium responsiva desenvolvida para o segmento de estética e beleza de alto padrão.
 
-- [Repositório](https://github.com/WendellSSilva/clinica-estetica)
-- [Projeto Online](https://wsdev-estetica.vercel.app/)
+- 🔗 [Repositório](https://github.com/WendellSSilva/clinica-estetica)
+- 🌐 [Projeto Online](https://wsdev-estetica.vercel.app/)
 
 **Preview:**
 
@@ -74,8 +74,8 @@ Landing page premium responsiva desenvolvida para o segmento de estética e bele
 
 Landing page responsiva desenvolvida utilizando HTML e CSS.
 
-- [Repositório](https://github.com/WendellSSilva/Wide-Coverage-location)
-- [Projeto Online](https://wendellssilva.github.io/Wide-Coverage-location)
+- 🔗 [Repositório](https://github.com/WendellSSilva/Wide-Coverage-location)
+- 🌐 [Projeto Online](https://wendellssilva.github.io/Wide-Coverage-location)
 
 **Preview:**
 
@@ -90,8 +90,8 @@ Landing page responsiva desenvolvida utilizando HTML e CSS.
 
 Landing page responsiva desenvolvida com HTML e CSS.
 
-- [Repositório](https://github.com/WendellSSilva/Easy-shopping)
-- [Projeto Online](https://wendellssilva.github.io/Easy-shopping)
+- 🔗 [Repositório](https://github.com/WendellSSilva/Easy-shopping)
+- 🌐 [Projeto Online](https://wendellssilva.github.io/Easy-shopping)
 
 **Preview Desktop:**
 
@@ -110,7 +110,8 @@ Landing page responsiva desenvolvida com HTML e CSS.
 Aplicação web de previsão do tempo utilizando consumo de API em tempo real.
 
 **Tecnologias:**
-HTML5, CSS3, JavaScript e API REST.
+
+HTML5 • CSS3 • JavaScript • API REST
 
 ---
 
@@ -121,7 +122,8 @@ HTML5, CSS3, JavaScript e API REST.
 Conversor de moedas utilizando dados financeiros através de API.
 
 **Tecnologias:**
-HTML5, CSS3, JavaScript e API REST.
+
+HTML5 • CSS3 • JavaScript • API REST
 
 ---
 
