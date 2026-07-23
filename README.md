@@ -91,7 +91,7 @@ https://github.com/WendellSSilva/clinica-estetica
 
 ### Preview:
 
-![Clínica Estética](https://github.com/WendellSSilva/clinica-estetica/blob/main/clinica.png)
+![Clínica Estética](https://raw.githubusercontent.com/WendellSSilva/clinica-estetica/main/clinica.png)
 
 ---
 
@@ -115,7 +115,7 @@ https://github.com/WendellSSilva/Wide-Coverage-location
 
 ### Preview:
 
-![Wide Coverage](https://github.com/WendellSSilva/Wide-Coverage-location/blob/main/Wide%20Coverage%20Location.png)
+![Wide Coverage](https://raw.githubusercontent.com/WendellSSilva/Wide-Coverage-location/main/Wide%20Coverage%20Location.png)
 
 ---
 
