@@ -38,7 +38,7 @@ Desenvolvo projetos práticos com foco em **interfaces responsivas, experiência
 
 **Status:** Next.js
 
-Landing page institucional inspirada na identidade visual da DevClub, desenvolvida como desafio Front-end.
+Landing page institucional desenvolvida como desafio Front-end, explorando a identidade visual e proposta da DevClub.
 
 Projeto desenvolvido utilizando **Next.js, React, TypeScript e Tailwind CSS**, aplicando conceitos de:
 
